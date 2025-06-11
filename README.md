@@ -44,6 +44,10 @@ make sys
 kv --help
 ```
 
+## TO-DO
+
+- [ ] Fix bug in get call
+
 ## Contributions
 
 Pull requests are welcome, but this project is still in early stages and may change frequently.  
